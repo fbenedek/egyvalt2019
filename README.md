@@ -5,6 +5,8 @@ Az Egyváltozós Analízis Mérnöki Alkalmazásai programozós kurzusának anya
 
 Az egyvált - ebben a formában - azért jött létre, hogy a kevés programozási tapasztalattal rendelkező hallgatók is sikeresen felvehessék a tempót azokkal, akik már régóta fogalkoznak a témával. A tárgy illegális, úgy ahogy van - ezért ha bukásra álltok/valami nagyon nem megy, szóljatok nekünk, és megoldjuk (mert ha pár "jogász érzelmű hallgató" belénk köt, akkor igazuk lesz, és volt egyvált, nincs egyvált:D)
 
+Ha bármilyen kommentetek, javaslatotok, véleményetek van a tárgyról vagy ahogy tanítjuk, írjatok az [anonim formra](https://forms.gle/WQ5j6zXGy9Mv4Nd86). Nem vagyunk sértődősek - anyázzatok bátran!
+
 ## Elérhetőségeink
 
 Bence: bence.sipos.sb@gmail.com
